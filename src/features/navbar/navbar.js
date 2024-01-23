@@ -5,6 +5,7 @@ import {
   ShoppingCartIcon,
   XMarkIcon,
 } from "@heroicons/react/24/outline";
+import {Link} from 'react-router-dom';
 
 const user = {
   name: "RR",
@@ -67,6 +68,7 @@ function Navbar({ children }) {
                   </div>
                   <div className="hidden md:block">
                     <div className="ml-4 flex items-center md:ml-6">
+                      <Link to="/cart">
                       <button
                         type="button"
                         className="relative rounded-full bg-white p-1 text-black  hover:bg-gray-300 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-black"
@@ -77,6 +79,8 @@ function Navbar({ children }) {
                           aria-hidden="true"
                         />
                       </button>
+                      </Link>
+                      
                       <span className="inline-flex items-center rounded-full  bg-red-50 mb-7 -ml-3 px-2 py-1 text-xs font-medium text-red-700 ring-1 ring-inset ring-red-600/10">
         0
       </span>
@@ -181,6 +185,7 @@ function Navbar({ children }) {
                         {user.email}
                       </div>
                     </div>
+                    <Link to="/cart">
                     <button
                       type="button"
                       className="relative ml-auto flex-shrink-0 rounded-full bg-white p-1 text-black  hover:bg-gray-300 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-black"
@@ -191,6 +196,7 @@ function Navbar({ children }) {
                         aria-hidden="true"
                       />
                     </button>
+                    </Link>
                     <span className="inline-flex items-center rounded-full  bg-red-50 mb-7 -ml-3 px-2 py-1 text-xs font-medium text-red-700 ring-1 ring-inset ring-red-600/10">
         0
       </span>

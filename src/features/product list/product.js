@@ -78,11 +78,11 @@ const products = [
   },
   {
     id: 2,
-    name: "Cashew(KAJU)",
+    name: "Cashew Kernal",
     href: "#",
     imageSrc:
       "https://www.debon.co.in/cdn/shop/products/cashews.png?v=1672122796",
-    imageAlt: "Cashew",
+    imageAlt: "Cashew Kernal",
     price: "₹1900",
   },
   {

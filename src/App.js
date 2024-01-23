@@ -5,6 +5,7 @@ import logo from "./logo.svg"
 import Home from './pages/home'
 import Login from './pages/loginPage'
 import Signup from './pages/signuppage'
+import Cart from './pages/Cartpage'
 
 import {
   createBrowserRouter,
@@ -25,6 +26,10 @@ const router = createBrowserRouter([
   {
     path: "/signup",
     element:<Signup></Signup>,
+  },
+  {
+    path: "/cart",
+    element:<Cart></Cart>,
   },
 ]);
 function App() {
