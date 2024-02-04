@@ -4,7 +4,7 @@ import { RadioGroup } from "@headlessui/react";
 
 const product = {
   name: "Almond Kernal",
-  price: "₹3500",
+  price: "3500",
   href: "#",
   breadcrumbs: [
     { id: 1, name: "Almond Kernal", href: "#" },
@@ -29,10 +29,18 @@ const product = {
     },
   ],
   quantity: [
-    { name: "250 GM", inStock: false },
+    { name: "250 GM", inStock: true },
+    { name: "250 GM(Pack of 2)", inStock: false },
+    { name: "250 GM(Pack of 3)", inStock: true },
+    { name: "250 GM(Pack of 4)", inStock: true },
     { name: "500 GM", inStock: true },
+    { name: "500 GM(Pack of 2)", inStock: false },
+    { name: "500 GM(Pack of 3)", inStock: true },
+    { name: "500 GM(Pack of 4)", inStock: false },
     { name: "750 GM", inStock: false },
     { name: "1 KG", inStock: true },
+    { name: "1 KG(Pack of 2)", inStock: true },
+    { name: "1 KG(Pack of 4)", inStock: false },
   ],
   description:
     "Almond kernels are a rich source of proteins, fibers, calcium and zinc. They are packed with antioxidants and are enjoyed as a smart snack or an impressive ingredient.",
@@ -148,7 +156,7 @@ export default function ProductDetail() {
           <div className="mt-4 lg:row-span-3 lg:mt-0">
             <h2 className="sr-only">Product information</h2>
             <p className="text-3xl tracking-tight text-gray-900">
-              {product.price}
+              ₹{product.price}
             </p>
 
             {/* Reviews */}
@@ -183,7 +191,9 @@ export default function ProductDetail() {
               {/* Quantity */}
               <div className="mt-10">
                 <div className="flex items-center justify-between">
-                  <h3 className="text-sm font-medium text-gray-900">Quantity</h3>
+                  <h3 className="text-sm font-medium text-gray-900">
+                    Quantity
+                  </h3>
                 </div>
 
                 <RadioGroup
@@ -296,19 +306,24 @@ export default function ProductDetail() {
               </div>
             </div>
             <div className="mt-10">
-              <h2 className="text-sm font-medium text-gray-900">Storage Conditions</h2>
+              <h2 className="text-sm font-medium text-gray-900">
+                Storage Conditions
+              </h2>
 
               <div className="mt-4 space-y-6">
-                <p className="text-sm text-gray-600">{product.storageCondition}</p>
+                <p className="text-sm text-gray-600">
+                  {product.storageCondition}
+                </p>
               </div>
               <div className="mt-10">
+                <h2 className="text-sm font-medium text-gray-900">
+                  Shelf Life
+                </h2>
 
-              <h2 className="text-sm font-medium text-gray-900">Shelf Life</h2>
-
-              <div className="mt-4 space-y-6">
-                <p className="text-sm text-gray-600">{product.shelfLife}</p>
+                <div className="mt-4 space-y-6">
+                  <p className="text-sm text-gray-600">{product.shelfLife}</p>
+                </div>
               </div>
-            </div>
             </div>
           </div>
         </div>
