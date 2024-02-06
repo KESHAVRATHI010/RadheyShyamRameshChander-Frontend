@@ -115,24 +115,35 @@ export default function ProductList() {
   const dispatch = useDispatch();
   const products = useSelector(selectAllProducts);
   const [filter, setFilter] = useState({});
+  const [sort, setSort] = useState({});
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
 
   const handleFilter = (e, section, option) => {
-    const newFilter = { ...filter, [section.id]: option.value };
+    const newFilter = { ...filter};
+    if (e.target.checked){
+      
+      if (newFilter [section.id]) {
+        newFilter [section.id].push(option.value)
+      } else {
+        newFilter [section.id]=[option.value]
+      }
+    }else{
+      const index=newFilter[section.id].findIndex(el=>el===option.value)
+      newFilter[section.id].splice(index,1)
+    }
+    console.log({newFilter});
     setFilter(newFilter);
-    dispatch(fetchProductsByFiltersAsync(newFilter));
-    console.log(section.id, option.value);
   };
 
   const handleSort = (e, option) => {
-    const newFilter = { ...filter, _sort: option.sort };
-    setFilter(newFilter);
-    dispatch(fetchProductsByFiltersAsync(newFilter));
+    const sort = {_sort: option.sort };
+    console.log({sort});
+    setFilter(sort);
   };
 
   useEffect(() => {
-    dispatch(fetchAllProductsAsync());
-  }, [dispatch]);
+    dispatch(fetchProductsByFiltersAsync({filter,sort}));
+  }, [dispatch,filter,sort]);
 
   return (
     <div className="bg-white">
@@ -230,9 +241,7 @@ export default function ProductList() {
             </div>
           </section>
           {/* Pagination */}
-          <div className="flex items-center justify-between border-t border-gray-200 bg-white px-4 py-3 sm:px-6">
             <Pagination></Pagination>
-          </div>
         </main>
       </div>
     </div>
@@ -331,6 +340,7 @@ function MobileFilter({
                                   defaultValue={option.value}
                                   type="checkbox"
                                   defaultChecked={option.checked}
+                                  onChange={(e) => handleFilter(e, section, option)}
                                   className="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500"
                                 />
                                 <label
@@ -416,7 +426,7 @@ function DesktopFilter({handleFilter}) {
 
 function Pagination() {
   return (
-    <div>
+    <div className="flex items-center justify-between border-t border-gray-200 bg-white px-4 py-3 sm:px-6">
       <div className="flex flex-1 justify-between sm:hidden">
         <a
           href="#"
