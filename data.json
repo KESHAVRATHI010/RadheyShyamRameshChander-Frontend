@@ -95,9 +95,10 @@
         "alt": "Cashew Nut"
       }],
       "images": [
-        { "src": "https://example.com/cashew-image1.jpg", "alt": "Cashew Nut 1" },
-        { "src": "https://example.com/cashew-image2.jpg", "alt": "Cashew Nut 2" },
-        { "src": "https://example.com/cashew-image3.jpg", "alt": "Cashew Nut 3" }
+        { "src": "https://www.debon.co.in/cdn/shop/products/cashews.png?v=1672122796", "alt": "Cashew Nut 1" },
+        { "src": "https://ajfan.store/cdn/shop/files/CashewNutPlainW-240.jpg?v=1700722609g", "alt": "Cashew Nut 2" },
+        { "src": "https://media.istockphoto.com/id/1370523174/photo/cashew-nuts-are-falling-on-a-pile-on-a-white-background-isolated.jpg?s=612x612&w=0&k=20&c=xaviKrUG-VKUomyfV9XtbreKlXRUSOijAOcuBa-qzmM=", "alt": "Cashew Nut 3" },
+        { "src": "https://nutmall.in/wp-content/uploads/2019/10/back-2.jpg", "alt": "Cashew Nut 4" }
       ],
       "description": "Cashew nuts are a popular snack. They are rich in healthy fats, protein, and various vitamins and minerals.",
       "benefits": [
@@ -140,9 +141,10 @@
         "alt": "Pistachio"
       }],
       "images": [
-        { "src": "https://example.com/pistachio-image1.jpg", "alt": "Pistachio 1" },
-        { "src": "https://example.com/pistachio-image2.jpg", "alt": "Pistachio 2" },
-        { "src": "https://example.com/pistachio-image3.jpg", "alt": "Pistachio 3" }
+        { "src": "https://cdn.britannica.com/76/196076-050-6138D55B/pistachios.jpg", "alt": "Pistachio 1" },
+        { "src": "https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2021/11/benefits_pistachios_GettyImages683864285_Header-1024x575.jpg?w=1155&h=1528", "alt": "Pistachio 2" },
+        { "src": "https://i.pinimg.com/236x/16/0d/ea/160dea4bb9bfb591639f1fb635d149ce.jpg", "alt": "Pistachio 3" },
+        { "src": "https://5.imimg.com/data5/SELLER/Default/2022/1/VP/VY/SD/137500497/b11eb635-7fe6-4d3b-87d4-64cc27f1524e-500x500.jpg", "alt": "Pistachio 4" }
       ],
       "description": "Pistachios are nuts that offer numerous health benefits. They are a rich source of protein, healthy fats, and antioxidants.",
       "benefits": [
@@ -185,9 +187,10 @@
         "alt": "Walnut 1"
       }],
       "images": [
-        { "src": "https://example.com/walnut-image1.jpg", "alt": "Walnut 1" },
-        { "src": "https://example.com/walnut-image2.jpg", "alt": "Walnut 2" },
-        { "src": "https://example.com/walnut-image3.jpg", "alt": "Walnut 3" }
+        { "src": "https://m.media-amazon.com/images/I/41gKEUsTK4L._AC_UF1000,1000_QL80_.jpg", "alt": "Walnut 1" },
+        { "src": "https://prannuts.com/cdn/shop/products/WALNUTS_1024x1024.jpg?v=1631278417", "alt": "Walnut 2" },
+        { "src": "https://5.imimg.com/data5/ANDROID/Default/2023/1/ER/NG/VI/146013818/product-jpeg-500x500.jpg", "alt": "Walnut 3" },
+        { "src": "https://www.shutterstock.com/image-photo/whole-cracked-walnuts-closeup-air-600nw-2244308973.jpg", "alt": "Walnut 4" }
       ],
       "description": "Walnuts are nutrient-dense nuts with a rich array of health-promoting nutrients. They are high in omega-3 fatty acids, antioxidants, and vitamins.",
       "benefits": [
@@ -230,9 +233,10 @@
         "alt": "Green Raisins 1"
       }],
       "images": [
-        { "src": "https://example.com/raisins-image1.jpg", "alt": "Raisins 1" },
-        { "src": "https://example.com/raisins-image2.jpg", "alt": "Raisins 2" },
-        { "src": "https://example.com/raisins-image3.jpg", "alt": "Raisins 3" }
+        { "src": "https://www.urbantray.in/wp-content/uploads/2022/05/Afghan-Green-Raisin-Long.jpg", "alt": "Raisins 1" },
+        { "src": "https://5.imimg.com/data5/SELLER/Default/2022/9/UO/WK/OB/130122259/green-raisin.jpg", "alt": "Raisins 2" },
+        { "src": "https://png.pngtree.com/element_our/20190528/ourmid/pngtree-many-delicious-xinjiang-raisins-image_1118340.jpg", "alt": "Raisins 3" },
+        { "src": "https://5.imimg.com/data5/SELLER/Default/2022/4/RH/JB/XO/24972540/dry-green-raisins-500x500.jpeg", "alt": "Raisins 4" }
       ],
       "description": "Raisins are dried grapes, rich in natural sugars, fiber, and antioxidants. They are a convenient and healthy snack option.",
       "benefits": [
@@ -275,9 +279,10 @@
         "alt": "Dates 1"
       }],
       "images": [
-        { "src": "https://example.com/dates-image1.jpg", "alt": "Dates 1" },
-        { "src": "https://example.com/dates-image2.jpg", "alt": "Dates 2" },
-        { "src": "https://example.com/dates-image3.jpg", "alt": "Dates 3" }
+        { "src": "https://m.media-amazon.com/images/I/51SFw51MRiL._AC_UF1000,1000_QL80_.jpg", "alt": "Dates 1" },
+        { "src": "https://m.media-amazon.com/images/I/413JSqa2SFL._AC_UF1000,1000_QL80_.jpg", "alt": "Dates 2" },
+        { "src": "https://www.shutterstock.com/image-photo/dates-fruit-fly-fall-on-600nw-1849879132.jpg", "alt": "Dates 3" },
+        { "src": "https://happilo.com/cdn/shop/products/1v2_5c1d05f7-c3ee-4ec4-adc3-ef3ab1410c9a.png?v=1632908630&width=800", "alt": "Dates 4" }
       ],
       "description": "Dates are sweet fruits that come from the date palm tree. They are high in natural sugars, fiber, and various vitamins and minerals.",
       "benefits": [
@@ -320,9 +325,10 @@
         "alt": "Dried Mango 1"
       }],
       "images": [
-        { "src": "https://example.com/dried-mango-image1.jpg", "alt": "Dried Mango 1" },
-        { "src": "https://example.com/dried-mango-image2.jpg", "alt": "Dried Mango 2" },
-        { "src": "https://example.com/dried-mango-image3.jpg", "alt": "Dried Mango 3" }
+        { "src": "https://m.media-amazon.com/images/I/4163SYgjrxL.jpg", "alt": "Dried Mango 1" },
+        { "src": "https://5.imimg.com/data5/XO/MM/LL/SELLER-9333451/dried-mango.jpg", "alt": "Dried Mango 2" },
+        { "src": "https://example.com/dried-mango-image3.jpghttps://thumbs.dreamstime.com/b/dried-mango-slices-falling-white-background-isolated-dried-mango-slices-falling-close-up-white-background-isolated-214423273.jpg", "alt": "Dried Mango 3" },
+        { "src": "https://happilo.com/cdn/shop/products/Front_f7b1b3c9-43a7-4c92-9948-7aa491bdb1fa.png?v=1632901779&width=800", "alt": "Dried Mango 4" }
       ],
       "description": "Dried mango is a delicious and nutritious snack. It retains the sweet and tangy flavor of fresh mangoes.",
       "benefits": [
@@ -741,6 +747,164 @@
         "Keep it in an airtight container to preserve the freshness of individual items."
       ],
       "shelfLife": "The average shelf life of the Happilo Seeds & berries Pack is around 8 months."
+    }
+  ],
+  "brands":[
+    {
+      "value": "QRT",
+      "label": "QRT",
+      "checked": false
+    },
+    {
+      "value": "SHREE",
+      "label": "SHREE",
+      "checked": false
+    },
+    {
+      "value": "HAPPILO",
+      "label": "HAPPLIO",
+      "checked": false
+    },
+    {
+      "value": "AG",
+      "label": "AG",
+      "checked": false
+    },
+    {
+      "value": "BRILL",
+      "label": "BRILL",
+      "checked": false
+    },
+    {
+      "value": "NUTMART",
+      "label": "NUTMART",
+      "checked": false
+    }
+  ],
+  "categories":[
+    {
+      "value": "Giri",
+      "label": "Giri",
+      "checked": false
+    },
+    {
+      "value": "Kaju",
+      "label": "Kaju",
+      "checked": false
+    },
+    {
+      "value": "pista",
+      "label": "pista",
+      "checked": false
+    },
+    {
+      "value": "wallnut",
+      "label": "wallnut",
+      "checked": false
+    },
+    {
+      "value": "raisins",
+      "label": "raisins",
+      "checked": false
+    },
+    {
+      "value": "Dates",
+      "label": "Dates",
+      "checked": false
+    },
+    {
+      "value": "Dried Items",
+      "label": "Dried Items",
+      "checked": false
+    },
+    {
+      "value": "Berries",
+      "label": "Berries",
+      "checked": false
+    },
+    {
+      "value": "Seeds",
+      "label": "Seeds",
+      "checked": false
+    },
+    {
+      "value": "Mixers",
+      "label": "Mixers",
+      "checked": false
+    }
+  ],
+  "quantities":[
+    {
+      "value": "250 GM",
+      "label": "250 GM",
+      "checked": false
+    },
+    {
+      "value": "250 GM(Pack of 3)",
+      "label": "250 GM(Pack of 3)",
+      "checked": false
+    },
+    {
+      "value": "250 GM(Pack of 4)",
+      "label": "250 GM(Pack of 4)",
+      "checked": false
+    },
+    {
+      "value": "500 GM",
+      "label": "500 GM",
+      "checked": false
+    },
+    {
+      "value": "500 GM(Pack of 2)",
+      "label": "500 GM(Pack of 2)",
+      "checked": false
+    },
+    {
+      "value": "500 GM(Pack of 3)",
+      "label": "500 GM(Pack of 3)",
+      "checked": false
+    },
+    {
+      "value": "500 GM(Pack of 4)",
+      "label": "500 GM(Pack of 4)",
+      "checked": false
+    },
+    {
+      "value": "750 GM",
+      "label": "750 GM",
+      "checked": false
+    },
+    {
+      "value": "1 KG",
+      "label": "1 KG",
+      "checked": false
+    },
+    {
+      "value": "1 KG(Pack of 2)",
+      "label": "1 KG(Pack of 2)",
+      "checked": false
+    },
+    {
+      "value": "1 KG(Pack of 4)",
+      "label": "1 KG(Pack of 4)",
+      "checked": false
+    },
+    {
+      "value": "250 GM(Pack of 2)",
+      "label": "250 GM(Pack of 2)",
+      "checked": false
+    }
+  ],
+  "availability":[
+    {
+      "value": "Available",
+      "label": "Available",
+      "checked": false
+    },
+    {
+      "value": "Not Available",
+      "label": "Not Available",
+      "checked": false
     }
   ]
 }
