@@ -8,66 +8,54 @@
       "discount": 10,
       "category": "Giri",
       "rating": 4.65,
-      "quantity": [
-          { "name": "250 GM", "inStock": false },
-          { "name": "250 GM(Pack of 2)", "inStock": false },
-          { "name": "250 GM(Pack of 3)", "inStock": true },
-          { "name": "250 GM(Pack of 4)", "inStock": true },
-          { "name": "500 GM", "inStock": true },
-          { "name": "500 GM(Pack of 2)", "inStock": false },
-          { "name": "500 GM(Pack of 3)", "inStock": true },
-          { "name": "500 GM(Pack of 4)", "inStock": false },
-          { "name": "750 GM", "inStock": false },
-          { "name": "1 KG", "inStock": true },
-          { "name": "1 KG(Pack of 2)", "inStock": true },
-          { "name": "1 KG(Pack of 4)", "inStock": false }
-      ],
       "stock": 100,
-      "thumbnail": [{
-          "src": "https://happilo.com/cdn/shop/products/1v2_bf9e06f6-cd22-4209-a932-310a869534c0.png",
-          "alt": "Almond Kernal 1"
-      }],
+      "thumbnail": [
+        {
+          "src": "https://happilo.com/cdn/shop/products/1v2_bf9e06f6-cd22-4209-a932-310a869534c0.png"
+        }
+      ],
       "images": [
-          {
-              "src": "https://www.jaindryfruits.com/image/cache/catalog/Berry/a11-575x575.jpg",
-              "alt": "Almond Kernal 1"
-          },
-          {
-              "src": "https://5.imimg.com/data5/SELLER/Default/2021/9/WY/XO/HC/124364426/organic-almond-kernels.jpeg",
-              "alt": "Almond Kernal 2"
-          },
-          {
-              "src": "https://static.vecteezy.com/system/resources/previews/008/534/070/original/falling-almonds-cutout-file-png.png",
-              "alt": "Almond Kernal 3"
-          },
-          {
-              "src": "https://static-01.daraz.com.bd/p/b91b105b648bb3c481eef009251c03c7.jpg",
-              "alt": "Almond Kernal 4"
-          }
+        {
+          "src": "https://www.jaindryfruits.com/image/cache/catalog/Berry/a11-575x575.jpg"
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2021/9/WY/XO/HC/124364426/organic-almond-kernels.jpeg"
+        },
+        {
+          "src": "https://static.vecteezy.com/system/resources/previews/008/534/070/original/falling-almonds-cutout-file-png.png"
+        },
+        {
+          "src": "https://static-01.daraz.com.bd/p/b91b105b648bb3c481eef009251c03c7.jpg"
+        }
       ],
-      "description":
-          "Almond kernels are a rich source of proteins, fibers, calcium and zinc. They are packed with antioxidants and are enjoyed as a smart snack or an impressive ingredient.",
+      "description": "Almond kernels are a rich source of proteins, fibers, calcium and zinc. They are packed with antioxidants and are enjoyed as a smart snack or an impressive ingredient.",
       "benefits": [
-          "Almond kernels supports healthy brain function and are considered as brain best food.",
-          "Their daily consumption helps maintain dental and bone health",
-          "Almond kernels being great source of vitamin E and other antioxidants help nourish the skin and reduce sign of aging.",
-          "Almond kernels help control blood sugar levels and prevent diabetes"
+        "Almond kernels supports healthy brain function and are considered as brain best food.",
+        "Their daily consumption helps maintain dental and bone health",
+        "Almond kernels being great source of vitamin E and other antioxidants help nourish the skin and reduce sign of aging.",
+        "Almond kernels help control blood sugar levels and prevent diabetes"
       ],
-      "about":
-          "Almond kernels are used in sweets and desserts worldwide. They are used to extract almond oil which has diverse benefits. 10-12 pieces of Almond kernels must be consumed on a daily basis. Soaking them in water and then consuming makes them easy to digest and provides numerable health benefits.",
+      "about": "Almond kernels are used in sweets and desserts worldwide. They are used to extract almond oil which has diverse benefits. 10-12 pieces of Almond kernels must be consumed on a daily basis. Soaking them in water and then consuming makes them easy to digest and provides numerable health benefits.",
       "storageCondition": [
-          "They should be stored in a cool and a dry place.",
-          "They should be shifted to tupperware and not kept in plastic for long duration.",
-          "Refrigeration is ideal as it enhances the shelf life of Californian almond kernels."
+        "They should be stored in a cool and a dry place.",
+        "They should be shifted to tupperware and not kept in plastic for long duration.",
+        "Refrigeration is ideal as it enhances the shelf life of Californian almond kernels."
       ],
-      "shelfLife":
-          "Average shelf life of Almond kernels is 7-8 months, however refrigeration can make them last and stay fresh for even more than a year.",
+      "shelfLife": "Average shelf life of Almond kernels is 7-8 months, however refrigeration can make them last and stay fresh for even more than a year.",
       "breadcrumbs": [
-          { "id": 1, "name": "Almond Kernal", "href": "#" },
-          { "id": 2, "name": "Dry fruits", "href": "#" }
+        {
+          "id": 1,
+          "name": "Almond Kernal",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Dry fruits",
+          "href": "#"
+        }
       ]
-  },
-  {
+    },
+    {
       "id": 2,
       "name": "Cashew Nut",
       "brand": "HAPPILO",
@@ -75,30 +63,25 @@
       "discount": 15,
       "category": "Kaju",
       "rating": 4.8,
-      "quantity": [
-        { "name": "250 GM", "inStock": false },
-        { "name": "250 GM(Pack of 2)", "inStock": false },
-        { "name": "250 GM(Pack of 3)", "inStock": true },
-        { "name": "250 GM(Pack of 4)", "inStock": true },
-        { "name": "500 GM", "inStock": true },
-        { "name": "500 GM(Pack of 2)", "inStock": false },
-        { "name": "500 GM(Pack of 3)", "inStock": true },
-        { "name": "500 GM(Pack of 4)", "inStock": false },
-        { "name": "750 GM", "inStock": false },
-        { "name": "1 KG", "inStock": true },
-        { "name": "1 KG(Pack of 2)", "inStock": true },
-        { "name": "1 KG(Pack of 4)", "inStock": false }
-    ],
       "stock": 80,
-      "thumbnail": [{
-        "src": "https://happilo.com/cdn/shop/products/Front.png",
-        "alt": "Cashew Nut"
-      }],
+      "thumbnail": [
+        {
+          "src": "https://happilo.com/cdn/shop/products/Front.png"
+        }
+      ],
       "images": [
-        { "src": "https://www.debon.co.in/cdn/shop/products/cashews.png?v=1672122796", "alt": "Cashew Nut 1" },
-        { "src": "https://ajfan.store/cdn/shop/files/CashewNutPlainW-240.jpg?v=1700722609g", "alt": "Cashew Nut 2" },
-        { "src": "https://media.istockphoto.com/id/1370523174/photo/cashew-nuts-are-falling-on-a-pile-on-a-white-background-isolated.jpg?s=612x612&w=0&k=20&c=xaviKrUG-VKUomyfV9XtbreKlXRUSOijAOcuBa-qzmM=", "alt": "Cashew Nut 3" },
-        { "src": "https://nutmall.in/wp-content/uploads/2019/10/back-2.jpg", "alt": "Cashew Nut 4" }
+        {
+          "src": "https://www.debon.co.in/cdn/shop/products/cashews.png?v=1672122796"
+        },
+        {
+          "src": "https://ajfan.store/cdn/shop/files/CashewNutPlainW-240.jpg?v=1700722609g"
+        },
+        {
+          "src": "https://media.istockphoto.com/id/1370523174/photo/cashew-nuts-are-falling-on-a-pile-on-a-white-background-isolated.jpg?s=612x612&w=0&k=20&c=xaviKrUG-VKUomyfV9XtbreKlXRUSOijAOcuBa-qzmM="
+        },
+        {
+          "src": "https://nutmall.in/wp-content/uploads/2019/10/back-2.jpg"
+        }
       ],
       "description": "Cashew nuts are a popular snack. They are rich in healthy fats, protein, and various vitamins and minerals.",
       "benefits": [
@@ -111,7 +94,19 @@
         "Store cashews in an airtight container.",
         "Keep them in a cool, dry place."
       ],
-      "shelfLife": "The average shelf life of cashew nuts is around 6 months."
+      "shelfLife": "The average shelf life of cashew nuts is around 6 months.",
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Cashew",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Dry fruits",
+          "href": "#"
+        }
+      ]
     },
     {
       "id": 3,
@@ -121,30 +116,25 @@
       "discount": 12,
       "category": "pista",
       "rating": 4.6,
-      "quantity": [
-        { "name": "250 GM", "inStock": false },
-        { "name": "250 GM(Pack of 2)", "inStock": false },
-        { "name": "250 GM(Pack of 3)", "inStock": true },
-        { "name": "250 GM(Pack of 4)", "inStock": true },
-        { "name": "500 GM", "inStock": true },
-        { "name": "500 GM(Pack of 2)", "inStock": false },
-        { "name": "500 GM(Pack of 3)", "inStock": true },
-        { "name": "500 GM(Pack of 4)", "inStock": false },
-        { "name": "750 GM", "inStock": false },
-        { "name": "1 KG", "inStock": true },
-        { "name": "1 KG(Pack of 2)", "inStock": true },
-        { "name": "1 KG(Pack of 4)", "inStock": false }
-    ],
       "stock": 60,
-      "thumbnail": [{
-        "src": "https://happilo.com/cdn/shop/products/1v2_31f6f791-8f26-464d-b873-977135c3b410.png",
-        "alt": "Pistachio"
-      }],
+      "thumbnail": [
+        {
+          "src": "https://happilo.com/cdn/shop/products/1v2_31f6f791-8f26-464d-b873-977135c3b410.png"
+        }
+      ],
       "images": [
-        { "src": "https://cdn.britannica.com/76/196076-050-6138D55B/pistachios.jpg", "alt": "Pistachio 1" },
-        { "src": "https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2021/11/benefits_pistachios_GettyImages683864285_Header-1024x575.jpg?w=1155&h=1528", "alt": "Pistachio 2" },
-        { "src": "https://i.pinimg.com/236x/16/0d/ea/160dea4bb9bfb591639f1fb635d149ce.jpg", "alt": "Pistachio 3" },
-        { "src": "https://5.imimg.com/data5/SELLER/Default/2022/1/VP/VY/SD/137500497/b11eb635-7fe6-4d3b-87d4-64cc27f1524e-500x500.jpg", "alt": "Pistachio 4" }
+        {
+          "src": "https://cdn.britannica.com/76/196076-050-6138D55B/pistachios.jpg"
+        },
+        {
+          "src": "https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2021/11/benefits_pistachios_GettyImages683864285_Header-1024x575.jpg?w=1155&h=1528"
+        },
+        {
+          "src": "https://i.pinimg.com/236x/16/0d/ea/160dea4bb9bfb591639f1fb635d149ce.jpg"
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/1/VP/VY/SD/137500497/b11eb635-7fe6-4d3b-87d4-64cc27f1524e-500x500.jpg"
+        }
       ],
       "description": "Pistachios are nuts that offer numerous health benefits. They are a rich source of protein, healthy fats, and antioxidants.",
       "benefits": [
@@ -157,7 +147,19 @@
         "Store pistachios in a cool place.",
         "Keep them in an airtight container."
       ],
-      "shelfLife": "The average shelf life of pistachios is around 9 months."
+      "shelfLife": "The average shelf life of pistachios is around 9 months.",
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Pistachios",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Dry fruits",
+          "href": "#"
+        }
+      ]
     },
     {
       "id": 4,
@@ -167,30 +169,25 @@
       "discount": 8,
       "category": "wallnut",
       "rating": 4.4,
-      "quantity": [
-        { "name": "250 GM", "inStock": false },
-        { "name": "250 GM(Pack of 2)", "inStock": false },
-        { "name": "250 GM(Pack of 3)", "inStock": true },
-        { "name": "250 GM(Pack of 4)", "inStock": true },
-        { "name": "500 GM", "inStock": true },
-        { "name": "500 GM(Pack of 2)", "inStock": false },
-        { "name": "500 GM(Pack of 3)", "inStock": true },
-        { "name": "500 GM(Pack of 4)", "inStock": false },
-        { "name": "750 GM", "inStock": false },
-        { "name": "1 KG", "inStock": true },
-        { "name": "1 KG(Pack of 2)", "inStock": true },
-        { "name": "1 KG(Pack of 4)", "inStock": false }
-    ],
       "stock": 75,
-      "thumbnail": [{
-        "src": "https://happilo.com/cdn/shop/products/1v2_1c61ca93-8516-40d2-9509-a791d5619002.png?v=1632847395&width=800",
-        "alt": "Walnut 1"
-      }],
+      "thumbnail": [
+        {
+          "src": "https://happilo.com/cdn/shop/products/1v2_1c61ca93-8516-40d2-9509-a791d5619002.png?v=1632847395&width=800"
+        }
+      ],
       "images": [
-        { "src": "https://m.media-amazon.com/images/I/41gKEUsTK4L._AC_UF1000,1000_QL80_.jpg", "alt": "Walnut 1" },
-        { "src": "https://prannuts.com/cdn/shop/products/WALNUTS_1024x1024.jpg?v=1631278417", "alt": "Walnut 2" },
-        { "src": "https://5.imimg.com/data5/ANDROID/Default/2023/1/ER/NG/VI/146013818/product-jpeg-500x500.jpg", "alt": "Walnut 3" },
-        { "src": "https://www.shutterstock.com/image-photo/whole-cracked-walnuts-closeup-air-600nw-2244308973.jpg", "alt": "Walnut 4" }
+        {
+          "src": "https://m.media-amazon.com/images/I/41gKEUsTK4L._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+          "src": "https://prannuts.com/cdn/shop/products/WALNUTS_1024x1024.jpg?v=1631278417"
+        },
+        {
+          "src": "https://5.imimg.com/data5/ANDROID/Default/2023/1/ER/NG/VI/146013818/product-jpeg-500x500.jpg"
+        },
+        {
+          "src": "https://www.shutterstock.com/image-photo/whole-cracked-walnuts-closeup-air-600nw-2244308973.jpg"
+        }
       ],
       "description": "Walnuts are nutrient-dense nuts with a rich array of health-promoting nutrients. They are high in omega-3 fatty acids, antioxidants, and vitamins.",
       "benefits": [
@@ -203,7 +200,19 @@
         "Keep walnuts in a cool, dark place.",
         "Refrigeration can extend their shelf life."
       ],
-      "shelfLife": "The average shelf life of walnuts is around 6 months."
+      "shelfLife": "The average shelf life of walnuts is around 6 months.",
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Walnut",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Dry fruits",
+          "href": "#"
+        }
+      ]
     },
     {
       "id": 5,
@@ -213,30 +222,25 @@
       "discount": 5,
       "category": "raisins",
       "rating": 4.2,
-      "quantity": [
-        { "name": "250 GM", "inStock": false },
-        { "name": "250 GM(Pack of 2)", "inStock": false },
-        { "name": "250 GM(Pack of 3)", "inStock": true },
-        { "name": "250 GM(Pack of 4)", "inStock": true },
-        { "name": "500 GM", "inStock": true },
-        { "name": "500 GM(Pack of 2)", "inStock": false },
-        { "name": "500 GM(Pack of 3)", "inStock": true },
-        { "name": "500 GM(Pack of 4)", "inStock": false },
-        { "name": "750 GM", "inStock": false },
-        { "name": "1 KG", "inStock": true },
-        { "name": "1 KG(Pack of 2)", "inStock": true },
-        { "name": "1 KG(Pack of 4)", "inStock": false }
-    ],
       "stock": 90,
-      "thumbnail": [{
-        "src": "https://happilo.com/cdn/shop/products/Front_596db116-795f-4cf4-afad-37238c029dda.png?v=1632913059&width=800",
-        "alt": "Green Raisins 1"
-      }],
+      "thumbnail": [
+        {
+          "src": "https://happilo.com/cdn/shop/products/Front_596db116-795f-4cf4-afad-37238c029dda.png?v=1632913059&width=800"
+        }
+      ],
       "images": [
-        { "src": "https://www.urbantray.in/wp-content/uploads/2022/05/Afghan-Green-Raisin-Long.jpg", "alt": "Raisins 1" },
-        { "src": "https://5.imimg.com/data5/SELLER/Default/2022/9/UO/WK/OB/130122259/green-raisin.jpg", "alt": "Raisins 2" },
-        { "src": "https://png.pngtree.com/element_our/20190528/ourmid/pngtree-many-delicious-xinjiang-raisins-image_1118340.jpg", "alt": "Raisins 3" },
-        { "src": "https://5.imimg.com/data5/SELLER/Default/2022/4/RH/JB/XO/24972540/dry-green-raisins-500x500.jpeg", "alt": "Raisins 4" }
+        {
+          "src": "https://www.urbantray.in/wp-content/uploads/2022/05/Afghan-Green-Raisin-Long.jpg"
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/9/UO/WK/OB/130122259/green-raisin.jpg"
+        },
+        {
+          "src": "https://png.pngtree.com/element_our/20190528/ourmid/pngtree-many-delicious-xinjiang-raisins-image_1118340.jpg"
+        },
+        {
+          "src": "https://5.imimg.com/data5/SELLER/Default/2022/4/RH/JB/XO/24972540/dry-green-raisins-500x500.jpeg"
+        }
       ],
       "description": "Raisins are dried grapes, rich in natural sugars, fiber, and antioxidants. They are a convenient and healthy snack option.",
       "benefits": [
@@ -249,7 +253,19 @@
         "Store raisins in a cool, dry place.",
         "Keep them in an airtight container."
       ],
-      "shelfLife": "The average shelf life of raisins is around 12 months."
+      "shelfLife": "The average shelf life of raisins is around 12 months.",
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Green Raisins",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Dry fruits",
+          "href": "#"
+        }
+      ]
     },
     {
       "id": 6,
@@ -259,30 +275,25 @@
       "discount": 7,
       "category": "Dates",
       "rating": 4.4,
-      "quantity": [
-        { "name": "250 GM", "inStock": false },
-        { "name": "250 GM(Pack of 2)", "inStock": false },
-        { "name": "250 GM(Pack of 3)", "inStock": true },
-        { "name": "250 GM(Pack of 4)", "inStock": true },
-        { "name": "500 GM", "inStock": true },
-        { "name": "500 GM(Pack of 2)", "inStock": false },
-        { "name": "500 GM(Pack of 3)", "inStock": true },
-        { "name": "500 GM(Pack of 4)", "inStock": false },
-        { "name": "750 GM", "inStock": false },
-        { "name": "1 KG", "inStock": true },
-        { "name": "1 KG(Pack of 2)", "inStock": true },
-        { "name": "1 KG(Pack of 4)", "inStock": false }
-    ],
       "stock": 70,
-      "thumbnail": [{
-        "src": "https://happilo.com/cdn/shop/products/1v2_5c1d05f7-c3ee-4ec4-adc3-ef3ab1410c9a.png?v=1632908630&width=800",
-        "alt": "Dates 1"
-      }],
+      "thumbnail": [
+        {
+          "src": "https://happilo.com/cdn/shop/products/1v2_5c1d05f7-c3ee-4ec4-adc3-ef3ab1410c9a.png?v=1632908630&width=800"
+        }
+      ],
       "images": [
-        { "src": "https://m.media-amazon.com/images/I/51SFw51MRiL._AC_UF1000,1000_QL80_.jpg", "alt": "Dates 1" },
-        { "src": "https://m.media-amazon.com/images/I/413JSqa2SFL._AC_UF1000,1000_QL80_.jpg", "alt": "Dates 2" },
-        { "src": "https://www.shutterstock.com/image-photo/dates-fruit-fly-fall-on-600nw-1849879132.jpg", "alt": "Dates 3" },
-        { "src": "https://happilo.com/cdn/shop/products/1v2_5c1d05f7-c3ee-4ec4-adc3-ef3ab1410c9a.png?v=1632908630&width=800", "alt": "Dates 4" }
+        {
+          "src": "https://m.media-amazon.com/images/I/51SFw51MRiL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+          "src": "https://m.media-amazon.com/images/I/413JSqa2SFL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+          "src": "https://www.shutterstock.com/image-photo/dates-fruit-fly-fall-on-600nw-1849879132.jpg"
+        },
+        {
+          "src": "https://happilo.com/cdn/shop/products/1v2_5c1d05f7-c3ee-4ec4-adc3-ef3ab1410c9a.png?v=1632908630&width=800"
+        }
       ],
       "description": "Dates are sweet fruits that come from the date palm tree. They are high in natural sugars, fiber, and various vitamins and minerals.",
       "benefits": [
@@ -295,7 +306,19 @@
         "Store dates in a cool place.",
         "Keep them in a sealed container to prevent drying out."
       ],
-      "shelfLife": "The average shelf life of dates is around 6 months."
+      "shelfLife": "The average shelf life of dates is around 6 months.",
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Dates",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Dry fruits",
+          "href": "#"
+        }
+      ]
     },
     {
       "id": 7,
@@ -305,30 +328,25 @@
       "discount": 8,
       "category": "Dried Items",
       "rating": 4.4,
-      "quantity": [
-          { "name": "250 GM", "inStock": false },
-          { "name": "250 GM(Pack of 2)", "inStock": false },
-          { "name": "250 GM(Pack of 3)", "inStock": true },
-          { "name": "250 GM(Pack of 4)", "inStock": true },
-          { "name": "500 GM", "inStock": true },
-          { "name": "500 GM(Pack of 2)", "inStock": false },
-          { "name": "500 GM(Pack of 3)", "inStock": true },
-          { "name": "500 GM(Pack of 4)", "inStock": false },
-          { "name": "750 GM", "inStock": false },
-          { "name": "1 KG", "inStock": true },
-          { "name": "1 KG(Pack of 2)", "inStock": true },
-          { "name": "1 KG(Pack of 4)", "inStock": false }
-      ],
       "stock": 80,
-      "thumbnail": [{
-        "src": "https://happilo.com/cdn/shop/products/Front_f7b1b3c9-43a7-4c92-9948-7aa491bdb1fa.png?v=1632901779&width=800",
-        "alt": "Dried Mango 1"
-      }],
+      "thumbnail": [
+        {
+          "src": "https://happilo.com/cdn/shop/products/Front_f7b1b3c9-43a7-4c92-9948-7aa491bdb1fa.png?v=1632901779&width=800"
+        }
+      ],
       "images": [
-        { "src": "https://m.media-amazon.com/images/I/4163SYgjrxL.jpg", "alt": "Dried Mango 1" },
-        { "src": "https://5.imimg.com/data5/XO/MM/LL/SELLER-9333451/dried-mango.jpg", "alt": "Dried Mango 2" },
-        { "src": "https://example.com/dried-mango-image3.jpghttps://thumbs.dreamstime.com/b/dried-mango-slices-falling-white-background-isolated-dried-mango-slices-falling-close-up-white-background-isolated-214423273.jpg", "alt": "Dried Mango 3" },
-        { "src": "https://happilo.com/cdn/shop/products/Front_f7b1b3c9-43a7-4c92-9948-7aa491bdb1fa.png?v=1632901779&width=800", "alt": "Dried Mango 4" }
+        {
+          "src": "https://m.media-amazon.com/images/I/4163SYgjrxL.jpg"
+        },
+        {
+          "src": "https://5.imimg.com/data5/XO/MM/LL/SELLER-9333451/dried-mango.jpg"
+        },
+        {
+          "src": "https://example.com/dried-mango-image3.jpghttps://thumbs.dreamstime.com/b/dried-mango-slices-falling-white-background-isolated-dried-mango-slices-falling-close-up-white-background-isolated-214423273.jpg"
+        },
+        {
+          "src": "https://happilo.com/cdn/shop/products/Front_f7b1b3c9-43a7-4c92-9948-7aa491bdb1fa.png?v=1632901779&width=800"
+        }
       ],
       "description": "Dried mango is a delicious and nutritious snack. It retains the sweet and tangy flavor of fresh mangoes.",
       "benefits": [
@@ -341,7 +359,19 @@
         "Store dried mango in a cool, dry place.",
         "Keep it in an airtight container to maintain freshness."
       ],
-      "shelfLife": "The average shelf life of dried mango is around 6 months."
+      "shelfLife": "The average shelf life of dried mango is around 6 months.",
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Dried Mango",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Dried Items",
+          "href": "#"
+        }
+      ]
     },
     {
       "id": 8,
@@ -351,29 +381,22 @@
       "discount": 10,
       "category": "Dried Items",
       "rating": 4.5,
-      "quantity": [
-        { "name": "250 GM", "inStock": false },
-        { "name": "250 GM(Pack of 2)", "inStock": false },
-        { "name": "250 GM(Pack of 3)", "inStock": true },
-        { "name": "250 GM(Pack of 4)", "inStock": true },
-        { "name": "500 GM", "inStock": true },
-        { "name": "500 GM(Pack of 2)", "inStock": false },
-        { "name": "500 GM(Pack of 3)", "inStock": true },
-        { "name": "500 GM(Pack of 4)", "inStock": false },
-        { "name": "750 GM", "inStock": false },
-        { "name": "1 KG", "inStock": true },
-        { "name": "1 KG(Pack of 2)", "inStock": true },
-        { "name": "1 KG(Pack of 4)", "inStock": false }
-    ],
       "stock": 70,
-      "thumbnail": [{
-        "src": "https://happilo.com/cdn/shop/products/1v2_e8f75594-38a8-485b-a0cd-c66208368388.png?v=1632902537&width=800",
-        "alt": "Dried Kiwi 1"
-      }],
+      "thumbnail": [
+        {
+          "src": "https://happilo.com/cdn/shop/products/1v2_e8f75594-38a8-485b-a0cd-c66208368388.png?v=1632902537&width=800"
+        }
+      ],
       "images": [
-        { "src": "https://example.com/dried-kiwi-image1.jpg", "alt": "Dried Kiwi 1" },
-        { "src": "https://example.com/dried-kiwi-image2.jpg", "alt": "Dried Kiwi 2" },
-        { "src": "https://example.com/dried-kiwi-image3.jpg", "alt": "Dried Kiwi 3" }
+        {
+          "src": "https://example.com/dried-kiwi-image1.jpg"
+        },
+        {
+          "src": "https://example.com/dried-kiwi-image2.jpg"
+        },
+        {
+          "src": "https://example.com/dried-kiwi-image3.jpg"
+        }
       ],
       "description": "Dried kiwi is a tasty and nutritious snack. It retains the natural sweetness and vibrant green color of fresh kiwi fruit.",
       "benefits": [
@@ -386,7 +409,19 @@
         "Store dried kiwi in a cool, dry place.",
         "Keep it sealed in an airtight container to maintain its texture."
       ],
-      "shelfLife": "The average shelf life of dried kiwi is around 8 months."
+      "shelfLife": "The average shelf life of dried kiwi is around 8 months.",
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Dried Kiwi",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Dried Items",
+          "href": "#"
+        }
+      ]
     },
     {
       "id": 9,
@@ -396,29 +431,22 @@
       "discount": 9,
       "category": "Dried Items",
       "rating": 4.3,
-      "quantity": [
-        { "name": "250 GM", "inStock": false },
-        { "name": "250 GM(Pack of 2)", "inStock": false },
-        { "name": "250 GM(Pack of 3)", "inStock": true },
-        { "name": "250 GM(Pack of 4)", "inStock": true },
-        { "name": "500 GM", "inStock": true },
-        { "name": "500 GM(Pack of 2)", "inStock": false },
-        { "name": "500 GM(Pack of 3)", "inStock": true },
-        { "name": "500 GM(Pack of 4)", "inStock": false },
-        { "name": "750 GM", "inStock": false },
-        { "name": "1 KG", "inStock": true },
-        { "name": "1 KG(Pack of 2)", "inStock": true },
-        { "name": "1 KG(Pack of 4)", "inStock": false }
-    ],
       "stock": 75,
-      "thumbnail": [{
-        "src": "https://happilo.com/cdn/shop/products/Front_d50e6f79-4fe2-4cbe-b347-8c39a3193e79.png?v=1632906037&width=800",
-        "alt": "Dried Pineapple 1"
-      }],
+      "thumbnail": [
+        {
+          "src": "https://happilo.com/cdn/shop/products/Front_d50e6f79-4fe2-4cbe-b347-8c39a3193e79.png?v=1632906037&width=800"
+        }
+      ],
       "images": [
-        { "src": "https://example.com/dried-pineapple-image1.jpg", "alt": "Dried Pineapple 1" },
-        { "src": "https://example.com/dried-pineapple-image2.jpg", "alt": "Dried Pineapple 2" },
-        { "src": "https://example.com/dried-pineapple-image3.jpg", "alt": "Dried Pineapple 3" }
+        {
+          "src": "https://example.com/dried-pineapple-image1.jpg"
+        },
+        {
+          "src": "https://example.com/dried-pineapple-image2.jpg"
+        },
+        {
+          "src": "https://example.com/dried-pineapple-image3.jpg"
+        }
       ],
       "description": "Dried pineapple is a sweet and tropical snack. It captures the juicy and tangy flavor of fresh pineapple.",
       "benefits": [
@@ -431,7 +459,19 @@
         "Store dried pineapple in a cool, dry place.",
         "Keep it in an airtight container to prevent moisture absorption."
       ],
-      "shelfLife": "The average shelf life of dried pineapple is around 9 months."
+      "shelfLife": "The average shelf life of dried pineapple is around 9 months.",
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Dried Pineapple",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Dried Items",
+          "href": "#"
+        }
+      ]
     },
     {
       "id": 10,
@@ -441,29 +481,22 @@
       "discount": 7,
       "category": "Dried Items",
       "rating": 4.2,
-      "quantity": [
-        { "name": "250 GM", "inStock": false },
-        { "name": "250 GM(Pack of 2)", "inStock": false },
-        { "name": "250 GM(Pack of 3)", "inStock": true },
-        { "name": "250 GM(Pack of 4)", "inStock": true },
-        { "name": "500 GM", "inStock": true },
-        { "name": "500 GM(Pack of 2)", "inStock": false },
-        { "name": "500 GM(Pack of 3)", "inStock": true },
-        { "name": "500 GM(Pack of 4)", "inStock": false },
-        { "name": "750 GM", "inStock": false },
-        { "name": "1 KG", "inStock": true },
-        { "name": "1 KG(Pack of 2)", "inStock": true },
-        { "name": "1 KG(Pack of 4)", "inStock": false }
-    ],
       "stock": 85,
-      "thumbnail": [{
-        "src": "https://happilo.com/cdn/shop/products/Front_d7123916-a769-41fc-bb0e-286125ae2d1c.png?v=1632905885&width=800",
-        "alt": "Dried Papaya 1"
-      }],
+      "thumbnail": [
+        {
+          "src": "https://happilo.com/cdn/shop/products/Front_d7123916-a769-41fc-bb0e-286125ae2d1c.png?v=1632905885&width=800"
+        }
+      ],
       "images": [
-        { "src": "https://example.com/dried-papaya-image1.jpg", "alt": "Dried Papaya 1" },
-        { "src": "https://example.com/dried-papaya-image2.jpg", "alt": "Dried Papaya 2" },
-        { "src": "https://example.com/dried-papaya-image3.jpg", "alt": "Dried Papaya 3" }
+        {
+          "src": "https://example.com/dried-papaya-image1.jpg"
+        },
+        {
+          "src": "https://example.com/dried-papaya-image2.jpg"
+        },
+        {
+          "src": "https://example.com/dried-papaya-image3.jpg"
+        }
       ],
       "description": "Dried papaya is a sweet and chewy snack. It preserves the tropical flavor of fresh papaya in a convenient form.",
       "benefits": [
@@ -476,7 +509,19 @@
         "Store dried papaya in a cool, dry place.",
         "Keep it sealed in an airtight container to maintain its chewy texture."
       ],
-      "shelfLife": "The average shelf life of dried papaya is around 7 months."
+      "shelfLife": "The average shelf life of dried papaya is around 7 months.",
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Dried Papaya",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Dried Items",
+          "href": "#"
+        }
+      ]
     },
     {
       "id": 11,
@@ -486,29 +531,22 @@
       "discount": 10,
       "category": "Berries",
       "rating": 4.6,
-      "quantity": [
-        { "name": "250 GM", "inStock": false },
-        { "name": "250 GM(Pack of 2)", "inStock": false },
-        { "name": "250 GM(Pack of 3)", "inStock": true },
-        { "name": "250 GM(Pack of 4)", "inStock": true },
-        { "name": "500 GM", "inStock": true },
-        { "name": "500 GM(Pack of 2)", "inStock": false },
-        { "name": "500 GM(Pack of 3)", "inStock": true },
-        { "name": "500 GM(Pack of 4)", "inStock": false },
-        { "name": "750 GM", "inStock": false },
-        { "name": "1 KG", "inStock": true },
-        { "name": "1 KG(Pack of 2)", "inStock": true },
-        { "name": "1 KG(Pack of 4)", "inStock": false }
-    ],
       "stock": 90,
-      "thumbnail": [{
-        "src": "https://happilo.com/cdn/shop/products/Front_936c30ff-b129-4bbe-93fc-415ca3f95d5d.png?v=1632887467&width=800",
-        "alt": "Blueberries 1"
-      }],
+      "thumbnail": [
+        {
+          "src": "https://happilo.com/cdn/shop/products/Front_936c30ff-b129-4bbe-93fc-415ca3f95d5d.png?v=1632887467&width=800"
+        }
+      ],
       "images": [
-        { "src": "https://example.com/blueberries-image1.jpg", "alt": "Blueberries 1" },
-        { "src": "https://example.com/blueberries-image2.jpg", "alt": "Blueberries 2" },
-        { "src": "https://example.com/blueberries-image3.jpg", "alt": "Blueberries 3" }
+        {
+          "src": "https://example.com/blueberries-image1.jpg"
+        },
+        {
+          "src": "https://example.com/blueberries-image2.jpg"
+        },
+        {
+          "src": "https://example.com/blueberries-image3.jpg"
+        }
       ],
       "description": "Blueberries are small, sweet, and packed with antioxidants. Dried blueberries offer a convenient and flavorful snack option.",
       "benefits": [
@@ -521,7 +559,19 @@
         "Store dried blueberries in a cool, dry place.",
         "Keep them in an airtight container to prevent moisture absorption."
       ],
-      "shelfLife": "The average shelf life of dried blueberries is around 10 months."
+      "shelfLife": "The average shelf life of dried blueberries is around 10 months.",
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Blueberries",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Berries",
+          "href": "#"
+        }
+      ]
     },
     {
       "id": 12,
@@ -531,29 +581,22 @@
       "discount": 9,
       "category": "Berries",
       "rating": 4.5,
-      "quantity":[
-        { "name": "250 GM", "inStock": false },
-        { "name": "250 GM(Pack of 2)", "inStock": false },
-        { "name": "250 GM(Pack of 3)", "inStock": true },
-        { "name": "250 GM(Pack of 4)", "inStock": true },
-        { "name": "500 GM", "inStock": true },
-        { "name": "500 GM(Pack of 2)", "inStock": false },
-        { "name": "500 GM(Pack of 3)", "inStock": true },
-        { "name": "500 GM(Pack of 4)", "inStock": false },
-        { "name": "750 GM", "inStock": false },
-        { "name": "1 KG", "inStock": true },
-        { "name": "1 KG(Pack of 2)", "inStock": true },
-        { "name": "1 KG(Pack of 4)", "inStock": false }
-    ],
       "stock": 80,
-      "thumbnail": [{
-        "src": "https://happilo.com/cdn/shop/products/1v2_1163515e-cb5f-42d9-8c71-702cf95428c9.png?v=1632906295&width=800",
-        "alt": "Strawberries 1"
-      }],
+      "thumbnail": [
+        {
+          "src": "https://happilo.com/cdn/shop/products/1v2_1163515e-cb5f-42d9-8c71-702cf95428c9.png?v=1632906295&width=800"
+        }
+      ],
       "images": [
-        { "src": "https://example.com/strawberries-image1.jpg", "alt": "Strawberries 1" },
-        { "src": "https://example.com/strawberries-image2.jpg", "alt": "Strawberries 2" },
-        { "src": "https://example.com/strawberries-image3.jpg", "alt": "Strawberries 3" }
+        {
+          "src": "https://example.com/strawberries-image1.jpg"
+        },
+        {
+          "src": "https://example.com/strawberries-image2.jpg"
+        },
+        {
+          "src": "https://example.com/strawberries-image3.jpg"
+        }
       ],
       "description": "Strawberries are sweet and juicy berries. Dried strawberries offer a convenient and flavorful snack option.",
       "benefits": [
@@ -566,7 +609,19 @@
         "Store dried strawberries in a cool, dry place.",
         "Keep them in an airtight container to preserve their texture and flavor."
       ],
-      "shelfLife": "The average shelf life of dried strawberries is around 9 months."
+      "shelfLife": "The average shelf life of dried strawberries is around 9 months.",
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Strawberries",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Berries",
+          "href": "#"
+        }
+      ]
     },
     {
       "id": 13,
@@ -576,29 +631,22 @@
       "discount": 6,
       "category": "Seeds",
       "rating": 4.0,
-      "quantity": [
-        { "name": "250 GM", "inStock": false },
-        { "name": "250 GM(Pack of 2)", "inStock": false },
-        { "name": "250 GM(Pack of 3)", "inStock": true },
-        { "name": "250 GM(Pack of 4)", "inStock": true },
-        { "name": "500 GM", "inStock": true },
-        { "name": "500 GM(Pack of 2)", "inStock": false },
-        { "name": "500 GM(Pack of 3)", "inStock": true },
-        { "name": "500 GM(Pack of 4)", "inStock": false },
-        { "name": "750 GM", "inStock": false },
-        { "name": "1 KG", "inStock": true },
-        { "name": "1 KG(Pack of 2)", "inStock": true },
-        { "name": "1 KG(Pack of 4)", "inStock": false }
-    ],
       "stock": 95,
-      "thumbnail": [{
-        "src": "https://happilo.com/cdn/shop/products/chiaseed_2.png?v=1632912517&width=800",
-        "alt": "Chia Seeds 1"
-      }],
+      "thumbnail": [
+        {
+          "src": "https://happilo.com/cdn/shop/products/chiaseed_2.png?v=1632912517&width=800"
+        }
+      ],
       "images": [
-        { "src": "https://example.com/chia-seeds-image1.jpg", "alt": "Chia Seeds 1" },
-        { "src": "https://example.com/chia-seeds-image2.jpg", "alt": "Chia Seeds 2" },
-        { "src": "https://example.com/chia-seeds-image3.jpg", "alt": "Chia Seeds 3" }
+        {
+          "src": "https://example.com/chia-seeds-image1.jpg"
+        },
+        {
+          "src": "https://example.com/chia-seeds-image2.jpg"
+        },
+        {
+          "src": "https://example.com/chia-seeds-image3.jpg"
+        }
       ],
       "description": "Chia seeds are small, nutrient-dense seeds that are rich in omega-3 fatty acids, fiber, and antioxidants.",
       "benefits": [
@@ -611,7 +659,19 @@
         "Store chia seeds in a cool, dry place.",
         "Keep them in a sealed container to prevent moisture absorption."
       ],
-      "shelfLife": "The average shelf life of chia seeds is around 12 months."
+      "shelfLife": "The average shelf life of chia seeds is around 12 months.",
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Chia Seeds",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Seeds",
+          "href": "#"
+        }
+      ]
     },
     {
       "id": 14,
@@ -621,29 +681,22 @@
       "discount": 7,
       "category": "Seeds",
       "rating": 4.2,
-      "quantity": [
-        { "name": "250 GM", "inStock": false },
-        { "name": "250 GM(Pack of 2)", "inStock": false },
-        { "name": "250 GM(Pack of 3)", "inStock": true },
-        { "name": "250 GM(Pack of 4)", "inStock": true },
-        { "name": "500 GM", "inStock": true },
-        { "name": "500 GM(Pack of 2)", "inStock": false },
-        { "name": "500 GM(Pack of 3)", "inStock": true },
-        { "name": "500 GM(Pack of 4)", "inStock": false },
-        { "name": "750 GM", "inStock": false },
-        { "name": "1 KG", "inStock": true },
-        { "name": "1 KG(Pack of 2)", "inStock": true },
-        { "name": "1 KG(Pack of 4)", "inStock": false }
-    ],
       "stock": 85,
-      "thumbnail": [{
-        "src": "https://happilo.com/cdn/shop/products/Happilo-Premium-International-RAW-Authentic-Flax-seeds-250g.png?v=1632911313&width=800",
-        "alt": "Flax Seeds 1"
-      }],
+      "thumbnail": [
+        {
+          "src": "https://happilo.com/cdn/shop/products/Happilo-Premium-International-RAW-Authentic-Flax-seeds-250g.png?v=1632911313&width=800"
+        }
+      ],
       "images": [
-        { "src": "https://example.com/flax-seeds-image1.jpg", "alt": "Flax Seeds 1" },
-        { "src": "https://example.com/flax-seeds-image2.jpg", "alt": "Flax Seeds 2" },
-        { "src": "https://example.com/flax-seeds-image3.jpg", "alt": "Flax Seeds 3" }
+        {
+          "src": "https://example.com/flax-seeds-image1.jpg"
+        },
+        {
+          "src": "https://example.com/flax-seeds-image2.jpg"
+        },
+        {
+          "src": "https://example.com/flax-seeds-image3.jpg"
+        }
       ],
       "description": "Flax seeds are tiny powerhouses of nutrition, known for their high content of omega-3 fatty acids, fiber, and antioxidants.",
       "benefits": [
@@ -656,7 +709,19 @@
         "Store flax seeds in a cool, dry place.",
         "Keep them in an airtight container to prevent oxidation."
       ],
-      "shelfLife": "The average shelf life of flax seeds is around 10 months."
+      "shelfLife": "The average shelf life of flax seeds is around 10 months.",
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Flax Seeds",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Seeds",
+          "href": "#"
+        }
+      ]
     },
     {
       "id": 15,
@@ -666,29 +731,22 @@
       "discount": 8,
       "category": "Mixers",
       "rating": 4.3,
-      "quantity": [
-        { "name": "250 GM", "inStock": false },
-        { "name": "250 GM(Pack of 2)", "inStock": false },
-        { "name": "250 GM(Pack of 3)", "inStock": true },
-        { "name": "250 GM(Pack of 4)", "inStock": true },
-        { "name": "500 GM", "inStock": true },
-        { "name": "500 GM(Pack of 2)", "inStock": false },
-        { "name": "500 GM(Pack of 3)", "inStock": true },
-        { "name": "500 GM(Pack of 4)", "inStock": false },
-        { "name": "750 GM", "inStock": false },
-        { "name": "1 KG", "inStock": true },
-        { "name": "1 KG(Pack of 2)", "inStock": true },
-        { "name": "1 KG(Pack of 4)", "inStock": false }
-    ],
       "stock": 75,
-      "thumbnail": [{
-        "src": "https://happilo.com/cdn/shop/products/1v2_7524517d-63b7-4e51-8cd3-3e413a876ec1.png?v=1636458325&width=800",
-        "alt": "Fitness Mix 1"
-      }],
+      "thumbnail": [
+        {
+          "src": "https://happilo.com/cdn/shop/products/1v2_7524517d-63b7-4e51-8cd3-3e413a876ec1.png?v=1636458325&width=800"
+        }
+      ],
       "images": [
-        { "src": "https://example.com/Fitness Mix-image1.jpg", "alt": "Fitness Mix 1" },
-        { "src": "https://example.com/Fitness Mix-image2.jpg", "alt": "Fitness Mix 2" },
-        { "src": "https://example.com/Fitness Mix-image3.jpg", "alt": "Fitness Mix 3" }
+        {
+          "src": "https://example.com/Fitness Mix-image1.jpg"
+        },
+        {
+          "src": "https://example.com/Fitness Mix-image2.jpg"
+        },
+        {
+          "src": "https://example.com/Fitness Mix-image3.jpg"
+        }
       ],
       "description": "Fitness Mix is a wholesome and nutritious blend of rolled oats, nuts, seeds, and dried fruits. It makes for a hearty and satisfying breakfast.",
       "benefits": [
@@ -701,7 +759,19 @@
         "Store Fitness Mix in a cool, dry place.",
         "Keep it in an airtight container to maintain its freshness and crunchiness."
       ],
-      "shelfLife": "The average shelf life of Fitness Mix is around 6 months."
+      "shelfLife": "The average shelf life of Fitness Mix is around 6 months.",
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Fitness Mix",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Mixers",
+          "href": "#"
+        }
+      ]
     },
     {
       "id": 16,
@@ -711,29 +781,22 @@
       "discount": 9,
       "category": "Mixers",
       "rating": 4.5,
-      "quantity": [
-        { "name": "250 GM", "inStock": false },
-        { "name": "250 GM(Pack of 2)", "inStock": false },
-        { "name": "250 GM(Pack of 3)", "inStock": true },
-        { "name": "250 GM(Pack of 4)", "inStock": true },
-        { "name": "500 GM", "inStock": true },
-        { "name": "500 GM(Pack of 2)", "inStock": false },
-        { "name": "500 GM(Pack of 3)", "inStock": true },
-        { "name": "500 GM(Pack of 4)", "inStock": false },
-        { "name": "750 GM", "inStock": false },
-        { "name": "1 KG", "inStock": true },
-        { "name": "1 KG(Pack of 2)", "inStock": true },
-        { "name": "1 KG(Pack of 4)", "inStock": false }
-    ],
       "stock": 80,
-      "thumbnail": [{
-        "src": "https://happilo.com/cdn/shop/products/Seeds-_-Berries.png?v=1648456881&width=800",
-        "alt": "Seeds & berries 1"
-      }],
+      "thumbnail": [
+        {
+          "src": "https://happilo.com/cdn/shop/products/Seeds-_-Berries.png?v=1648456881&width=800"
+        }
+      ],
       "images": [
-        { "src": "https://example.com/Seeds & berries-image1.jpg", "alt": "Seeds & berries 1" },
-        { "src": "https://example.com/Seeds & berries-image2.jpg", "alt": "Seeds & berries 2" },
-        { "src": "https://example.com/Seeds & berries-image3.jpg", "alt": "Seeds & berries 3" }
+        {
+          "src": "https://example.com/Seeds & berries-image1.jpg"
+        },
+        {
+          "src": "https://example.com/Seeds & berries-image2.jpg"
+        },
+        {
+          "src": "https://example.com/Seeds & berries-image3.jpg"
+        }
       ],
       "description": "The Happilo Seeds & berries Pack is a curated selection of wholesome and delicious items to kickstart your day with nutrition and energy.",
       "benefits": [
@@ -746,10 +809,22 @@
         "Store the Seeds & berries pack in a cool, dry place.",
         "Keep it in an airtight container to preserve the freshness of individual items."
       ],
-      "shelfLife": "The average shelf life of the Happilo Seeds & berries Pack is around 8 months."
+      "shelfLife": "The average shelf life of the Happilo Seeds & berries Pack is around 8 months.",
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name": "Seeds & berries",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "name": "Mixers",
+          "href": "#"
+        }
+      ]
     }
   ],
-  "brands":[
+  "brands": [
     {
       "value": "QRT",
       "label": "QRT",
@@ -781,7 +856,7 @@
       "checked": false
     }
   ],
-  "categories":[
+  "categories": [
     {
       "value": "Giri",
       "label": "Giri",
@@ -833,7 +908,7 @@
       "checked": false
     }
   ],
-  "quantities":[
+  "quantities": [
     {
       "value": "250 GM",
       "label": "250 GM",
@@ -895,7 +970,7 @@
       "checked": false
     }
   ],
-  "availability":[
+  "availability": [
     {
       "value": "Available",
       "label": "Available",

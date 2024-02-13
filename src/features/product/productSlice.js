@@ -1,14 +1,15 @@
 import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
-import { fetchAllProducts,fetchProductsByFilters ,fetchBrands,fetchCategories,fetchQuantities,fetchAvailability } from './productAPI';
+import { fetchAllProducts,fetchProductsByFilters ,fetchBrands,fetchCategories,fetchQuantities,fetchAvailability , fetchProductById} from './productAPI';
 
 const initialState = {
   products: [],
   brands: [],
   categories: [],
   quantities: [],
-  availbility: [],
+  availability : [],
   status: 'idle',
-  totalItems:0
+  totalItems:0,
+  selectedProduct:null  
 };
 
 
@@ -61,6 +62,14 @@ export const fetchAvailabilityAsync = createAsyncThunk(
   }
 );
 
+export const fetchAllProductByIdAsync = createAsyncThunk(
+  'product/fetchProductById',
+  async (id) => {
+    const response = await fetchProductById(id);
+    // console.log(response)
+    return response.data;
+  }
+);
 
 
 export const productSlice = createSlice({
@@ -115,6 +124,14 @@ export const productSlice = createSlice({
       .addCase(fetchAvailabilityAsync.fulfilled, (state, action) => {
         state.status = 'idle';
         state.availbility = action.payload;
+      })
+      .addCase(fetchAllProductByIdAsync.pending, (state) => {
+        state.status = 'loading';
+      })
+      .addCase(fetchAllProductByIdAsync.fulfilled, (state, action) => {
+        state.status = 'idle';
+        state.selectedProduct = action.payload;
+        // console.log(state.selectedProduct = action.payload)
       });
   },
 });
@@ -122,10 +139,11 @@ export const productSlice = createSlice({
 export const { increment } = productSlice.actions;
 
 export const selectAllProducts = (state) => state.product.products;
+export const selectProductById = (state) => state.product.selectedProduct;
 export const selectBrands = (state) => state.product.brands;
 export const selectCategories = (state) => state.product.categories;
 export const selectQuantities = (state) => state.product.quantities;
-export const selectAvailbility = (state) => state.product.availbility;
+export const selectAvailbility = (state) => state.product.availability;
 export const selectAllTotalItems = (state) => state.product.totalItems;
 
 export default productSlice.reducer;
